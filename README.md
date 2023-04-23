@@ -2,6 +2,8 @@
 
 This is a chat application built using React JS for the frontend, Chatengine.io for the backend, and Firebase for user authentication. The app allows users to create accounts, log in, and chat with other users.
 
+![chatty](https://user-images.githubusercontent.com/83910597/233825691-5bb46944-2201-4d13-b333-eb8d79781f0b.jpeg)
+
 ## Installation and Usage
 
 To run the application locally, you will need to have Node.js and npm installed. You can then follow these steps:
